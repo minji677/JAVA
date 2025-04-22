@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ch01/ch01.iml" filepath="$PROJECT_DIR$/ch01/ch01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch01-variable-type-operator/ch01-variable-type-operator.iml" filepath="$PROJECT_DIR$/ch01-variable-type-operator/ch01-variable-type-operator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch02-conditional-loof-reference/ch02-conditional-loof-reference.iml" filepath="$PROJECT_DIR$/ch02-conditional-loof-reference/ch02-conditional-loof-reference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java.iml" filepath="$PROJECT_DIR$/.idea/java.iml" />
+    </modules>
+  </component>
+</project>
