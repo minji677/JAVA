@@ -1,4 +1,4 @@
-package sec08.exam1;
+package ch07.sec08.exam1;
 
 public class Tire {
     public void roll() {

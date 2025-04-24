@@ -18,6 +18,3 @@ public class SmartphoneExample {
         myPhone.printModel();
     }
 }
-
-}
-

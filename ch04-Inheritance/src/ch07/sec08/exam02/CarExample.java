@@ -1,4 +1,4 @@
-package sec08.exam02;
+package ch07.sec08.exam02;
 
 public class CarExample {
 }
